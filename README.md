@@ -1,2 +1,2 @@
-docker build -t <name-project>
-docker run -it -p <PORT Dockerfile>:<PORT project>
+docker build -t my-app <br>
+docker run -it -p 8888:3000
